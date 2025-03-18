@@ -27,13 +27,13 @@ cd tabela-hash
 3. Para compilar o projeto, utilize o seguinte comando:
 
 ```
-gcc main.c tabela-hash.c -o hash_table
+gcc -std=c99 tabela-hash.c -o tabela_hash
 ```
 
 4. Execute o programa
 
 ```
-.\hash0_table
+.\tablea_hash
 ```
 
 ## Autor
