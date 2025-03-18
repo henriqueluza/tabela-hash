@@ -33,7 +33,7 @@ gcc -std=c99 tabela-hash.c -o tabela_hash
 4. Execute o programa
 
 ```
-.\tablea_hash
+.\tabela_hash
 ```
 
 ## Autor
